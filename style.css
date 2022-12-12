@@ -1,0 +1,20 @@
+.media:hover{
+    background-color: rgb(165, 184, 133);
+}
+.button{
+    font-size: 200px;
+}
+.hello {
+    box-shadow: 4px 3px 10px rgb(129, 111, 111);
+    /* 3d effect on the border */
+}
+.card{
+    box-shadow: 4px 3px 10px rgb(129, 111, 111);
+}
+
+.list-unstyled {
+    box-shadow: 4px 3px 10px rgb(129, 111, 111);
+}
+.tags {
+    box-shadow: 4px 3px 10px rgb(129, 111, 111);
+}
